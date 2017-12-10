@@ -5,7 +5,7 @@ This provides sample code for Azure Functions to connect to SOAP service.
 
 ## More Readings ##
 
-* [Mexia Blog &ndah; SOAP over Azure API Management, Logic Apps and Functions](https://blog.mexia.com.au/soap-over-azure-api-management-logic-apps-and-functions)
+* [Mexia Blog &ndash; SOAP over Azure API Management, Logic Apps and Functions](https://blog.mexia.com.au/soap-over-azure-api-management-logic-apps-and-functions)
 * [DevKimchi Blog &ndash; SOAP over Azure API Management, Logic Apps and Functions](https://devkimchi.com/2017/12/11/soap-over-azure-api-management-logic-apps-and-functions/)
 
 
