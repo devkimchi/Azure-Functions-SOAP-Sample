@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D6FA7BF4-540C-46B6-ADD8-DB42688A06E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample.WcfApp", "src\Sample.WcfApp\Sample.WcfApp.csproj", "{2E8053E4-0FAE-4AC4-A37B-FC4324BA1E2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E8053E4-0FAE-4AC4-A37B-FC4324BA1E2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E8053E4-0FAE-4AC4-A37B-FC4324BA1E2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E8053E4-0FAE-4AC4-A37B-FC4324BA1E2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E8053E4-0FAE-4AC4-A37B-FC4324BA1E2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2E8053E4-0FAE-4AC4-A37B-FC4324BA1E2C} = {D6FA7BF4-540C-46B6-ADD8-DB42688A06E5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B8DA843-7718-483C-8D21-54AE0E45BD9E}
+	EndGlobalSection
+EndGlobal
